@@ -1,2 +1,2 @@
-# Menteğe Farmbot
+# Menteşe Farmbot
 Menteşe Farmbot Projesi
